@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 310"
+  short_description: "精神场域：上半保留原照，下半把主体收成大形包着小焦点的精神符号"
+  default_prompt: "Use $xxd-panel-310 to transform my photograph following the complete canonical source brief."
