@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 310｜Spirit Field: keeps the photo and draws not the object but the feeling behind it — solitude, distance, watching, journey, time, memory — as one minimal abstract emblem: a large, nearly single-colour biomorphic field built from circles, arcs, irregular organic shapes, cut planes and gaps, holding one very small, highly recognisable focal shape in a vivid accent colour (a warm orange in deep green, gold in grey-blue, coral on off-white). Matte pigment, soft paper grain and a light screenprint feel, very low information density, and at most a very short note in a small modern type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-310 or asks for a poetic biomorphic abstract emblem, negative-space symbol or chromatic-accent mark from a photo.",
+  "short_description": "精神场域：把照片背后的情绪画成一大块有机形体里一个极小的亮色焦点",
+  "zh-CN": {
+    "name": "精神场域",
+    "tagline": "保留原照片，让一大块有机形体包着一个极小的亮色焦点，画出照片背后的情绪。",
+    "look": "照片保持原样，设计部分不画具体物体，而是画它背后的感觉，比如孤独、距离、守望、旅程或时间。一大块接近单色的有机形体或弧线占住画面，用圆、弧、切面和缝隙分出秩序；里面或旁边放一个极小、一眼能认出的主体，用一点鲜明的颜色点亮，比如深绿里的暖橙、灰蓝里的金黄、米白上的珊瑚色。表面是哑光颜料、细纸纹和轻微丝网感，信息极少；文字最多是一行很短的小注。",
+    "traits": ["有机抽象", "大形包小", "负空间", "丝网纸感", "低密度"],
+    "good": [
+      "大环境里有一个小主体的照片：雪原上的一个人、海上的一只船、山谷里的一座小屋",
+      "带有守望、距离或等待意味的画面：站在窗前的人、路灯下的猫、远处的灯塔",
+      "想做成香氛、艺术机构或书籍封面标志的照片"
+    ],
+    "poor": [
+      "需要看清物体细节的照片：静物摆拍、商品、菜品",
+      "主体很多、彼此争抢的照片：合影、热闹的街市",
+      "想要五彩缤纷、光滑矢量或多个符号堆叠的效果"
+    ]
+  },
+  "en": {
+    "name": "Spirit Field",
+    "tagline": "Keeps your photo and wraps one tiny bright focal point in a large organic shape to show the feeling behind it.",
+    "look": "The photo stays as it is. The design does not draw a particular object but the feeling behind it, such as solitude, distance, watching, a journey or time. One large, nearly single-colour organic form or arc fills the space, ordered by circles, curves, cut planes and gaps; inside or beside it sits a very small, instantly recognisable subject lit by one vivid colour, like warm orange in deep green, gold in grey-blue or coral on off-white. The surface is matte pigment with fine paper grain and a light screenprint feel, carrying very little information; text is at most one very short small note.",
+    "traits": ["Biomorphic abstraction", "Large form holds small", "Negative space", "Screenprint paper", "Low density"],
+    "good": [
+      "Photos with a small subject in a big setting: one person on a snowfield, a boat at sea, a cabin in a valley",
+      "Scenes about watching, distance or waiting: someone at a window, a cat under a street lamp, a far-off lighthouse",
+      "Photos you want as a mark for a fragrance, an art institution or a book cover"
+    ],
+    "poor": [
+      "Photos where object detail must be clear: still lifes, products, dishes",
+      "Photos with many competing subjects: group shots, busy street markets",
+      "Wanting a rainbow palette, glossy vector or several stacked symbols"
+    ]
+  },
+  "ja": {
+    "name": "精神の場",
+    "tagline": "写真はそのままに、大きな有機的な形でごく小さな明るい焦点を包み、写真の奥にある気持ちを描きます。",
+    "look": "写真はそのまま残し、デザイン側は具体的な物ではなく、その奥にある感覚、たとえば孤独、距離、見守ること、旅、時間を描きます。ほぼ単色の大きな有機的な形や弧が空間を占め、円、曲線、切り取られた面、すき間で秩序をつくります。その中か脇に、ひと目でわかるごく小さな主役を置き、鮮やかな一色で灯します。深い緑の中の暖かいオレンジ、灰青の中の金色、生成りの上のコーラルといった具合です。表面はマットな顔料に細かな紙の粒子と軽いシルクスクリーンの感触があり、情報はごくわずか。文字はあっても短い小さな注記一行です。",
+    "traits": ["有機的抽象", "大きな形が小さな点を包む", "ネガティブスペース", "シルクスクリーンと紙", "低い密度"],
+    "good": [
+      "大きな環境の中に小さな主役がいる写真：雪原のひとり、海の小舟、谷間の小屋",
+      "見守る、隔たる、待つといった気配のある場面：窓辺に立つ人、街灯の下の猫、遠くの灯台",
+      "香水、美術機関、本の表紙のマークにしたい写真"
+    ],
+    "poor": [
+      "物の細部をはっきり見せたい写真：静物の撮影、商品、料理",
+      "主役が多く、互いに目立ち合う写真：集合写真、にぎやかな市場",
+      "多色づかい、なめらかなベクター、シンボルの積み重ねを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "정신의 장",
+    "tagline": "원래 사진은 그대로 두고, 커다란 유기적 형태로 아주 작은 밝은 초점을 감싸 사진 속 감정을 그립니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 구체적인 물건이 아니라 그 뒤의 감각, 예컨대 고독, 거리, 지켜봄, 여정, 시간을 그립니다. 거의 단색인 커다란 유기적 형태나 호가 공간을 차지하고, 원, 곡선, 잘린 면, 틈으로 질서를 만듭니다. 그 안이나 곁에 한눈에 알아볼 수 있는 아주 작은 주인공을 두고 선명한 한 가지 색으로 밝힙니다. 짙은 초록 속 따뜻한 주황, 회청색 속 금빛, 미색 위의 코랄 같은 식입니다. 표면은 무광 안료에 고운 종이 결과 가벼운 실크스크린 느낌이 있고 정보는 아주 적으며, 글자는 있어도 짧은 작은 주석 한 줄입니다.",
+    "traits": ["유기적 추상", "큰 형태가 작은 점을 품음", "음형 공간", "실크스크린과 종이", "낮은 밀도"],
+    "good": [
+      "큰 환경 속에 작은 주인공이 있는 사진: 설원 위의 한 사람, 바다 위 배 한 척, 골짜기의 오두막",
+      "지켜봄, 거리, 기다림이 느껴지는 장면: 창가에 선 사람, 가로등 아래 고양이, 멀리 보이는 등대",
+      "향수, 미술 기관, 책 표지의 마크로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사물의 세부가 또렷해야 하는 사진: 정물 촬영, 제품, 음식",
+      "주인공이 많아 서로 다투는 사진: 단체 사진, 북적이는 시장",
+      "알록달록한 색, 매끈한 벡터, 여러 심벌을 쌓은 결과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "حقل الروح",
+    "tagline": "يحتفظ بصورتك ويلفّ نقطة مضيئة صغيرة جداً بشكل عضوي كبير ليُظهر الإحساس الكامن وراءها.",
+    "look": "تبقى الصورة كما هي، ولا يرسم التصميم شيئاً بعينه بل الإحساس الذي وراءه، كالعزلة أو المسافة أو الترقّب أو الرحلة أو الزمن. يملأ المساحةَ شكلٌ عضوي كبير أو قوس بلون يكاد يكون واحداً، تنظّمه دوائر ومنحنيات ومستويات مقطوعة وفجوات؛ وفي داخله أو بجانبه عنصر صغير جداً يُعرف فوراً ويضيئه لون زاهٍ واحد، كالبرتقالي الدافئ وسط الأخضر الداكن، أو الذهبي وسط الأزرق الرمادي، أو المرجاني على الأبيض المائل للصفرة. السطح من صبغة مطفأة مع حبيبات ورق ناعمة وإحساس خفيف بالشاشة الحريرية، والمعلومات قليلة جداً، والنص في أقصى حد ملاحظة صغيرة قصيرة جداً.",
+    "traits": ["تجريد عضوي", "شكل كبير يحتضن صغيراً", "مساحة سالبة", "ورق وشاشة حريرية", "كثافة منخفضة"],
+    "good": [
+      "صور فيها عنصر صغير في محيط واسع: شخص في سهل ثلجي، قارب في البحر، كوخ في وادٍ",
+      "مشاهد فيها ترقّب أو مسافة أو انتظار: شخص عند النافذة، قطة تحت مصباح الشارع، منارة بعيدة",
+      "صور تريدها علامةً لعطر أو مؤسسة فنية أو غلاف كتاب"
+    ],
+    "poor": [
+      "صور يجب أن تظهر فيها تفاصيل الأشياء بوضوح: الطبيعة الصامتة، المنتجات، أطباق الطعام",
+      "صور بعناصر كثيرة متنافسة: الصور الجماعية، الأسواق المزدحمة",
+      "الرغبة في ألوان كثيرة أو رسم متجهي لامع أو رموز متراكمة"
+    ]
+  }
+}

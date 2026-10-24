@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-310
-description: "Create XXD Panel 310 raster artwork: a faithful photograph paired with one biomorphic emblem where a large quiet form holds a tiny symbolic focus. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-310 or asks for this 精神场域 style."
+description: "XXD Panel 310｜Spirit Field: keeps the photo and draws not the object but the feeling behind it — solitude, distance, watching, journey, time, memory — as one minimal abstract emblem: a large, nearly single-colour biomorphic field built from circles, arcs, irregular organic shapes, cut planes and gaps, holding one very small, highly recognisable focal shape in a vivid accent colour (a warm orange in deep green, gold in grey-blue, coral on off-white). Matte pigment, soft paper grain and a light screenprint feel, very low information density, and at most a very short note in a small modern type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-310 or asks for a poetic biomorphic abstract emblem, negative-space symbol or chromatic-accent mark from a photo."
 ---
 
 # XXD Panel 310
